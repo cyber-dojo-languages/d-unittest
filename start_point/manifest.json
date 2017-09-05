@@ -1,13 +1,15 @@
 
 {
+  "display_name": "D, unittest",
+
   "visible_filenames": [
     "hiker.d",
     "cyber-dojo.sh"
   ],
 
+  "image_name": "cyberdojofoundation/d_unittest",
+
   "filename_extension" : ".d",
 
-  "display_name": "D, unittest",
-
-  "image_name": "cyberdojofoundation/d_unittest"
+  "runner_choice": "stateless"
 }
