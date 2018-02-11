@@ -1,5 +1,3 @@
-# dockerhub does not allow d:6.3.0
-# it appears this is because d is length one
 FROM  cyberdojofoundation/dee
 LABEL maintainer=jon@jaggersoft.com
 
