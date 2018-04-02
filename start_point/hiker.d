@@ -1,17 +1,6 @@
-
-import std.stdio;
+module hiker;
 
 int answer()
 {
     return 6 * 9;
-}
-
-unittest
-{
-    assert(answer() == 42, "answer() == 42");
-}
-
-void main()
-{
-    writeln("All tests passed");
 }
