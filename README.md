@@ -1,6 +1,6 @@
-[![CircleCI](https://circleci.com/gh/cyber-dojo-languages/dee-unittest.svg?style=svg)](https://circleci.com/gh/cyber-dojo-languages/dee-unittest)
+[![Github Action (master)](https://github.com/cyber-dojo-languages/d-unittest/actions/workflows/main.yml/badge.svg)](https://github.com/cyber-dojo-languages/d-unittest/actions)
 
-## display_name="D, unittest"
-## image_name="cyberdojofoundation/d_unittest"
+## display_name="D 13.3.0, unittest"
+## image_name="ghcr.io/cyber-dojo-languages/d_unittest"
 
 ![cyber-dojo.org home page](https://github.com/cyber-dojo/cyber-dojo/blob/master/shared/home_page_snapshot.png)
